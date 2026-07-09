@@ -50,11 +50,6 @@ I'm a full-stack web developer based in Dhaka, Bangladesh, building modern, prod
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Morshedul-developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morshedul-developer&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Morshedul-developer&theme=tokyonight&hide_border=true" />
 </p>
 
